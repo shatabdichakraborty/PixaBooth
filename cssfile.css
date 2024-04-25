@@ -56,7 +56,7 @@ header{
 /* 2 */
 .slider{
 	position: relative;
-	background-image: url("imgs/a.jpg");
+	background-image: url("image4.jpg");
 		background-size: cover;
 	
 	 /* darckblue */
@@ -161,6 +161,10 @@ header{
 .txt p{
 	font-weight: bold;
 	font-size: 20px;
+}
+#services{
+	color: white;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 /* /3 */
 
